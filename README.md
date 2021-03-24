@@ -2,13 +2,17 @@ HELLO
 
 I'm interested in the user interface of UNIX terminals. At first I was making a console filer, but I fell in love with shells and made shells. After that, I thought that the interpreter of the original language had a better user interface than the shell, so I created the original language.
 
-Language
+Using languages
 
 C, C++
 
-Library
+Using libraries
 
-readline, pcre, ncurses, LLVM
+readline, pcre, ncurses, LLVM, libc
+
+Using tools
+
+gdb, valgrind, autoconf, make, shell script, ruby
 
 My Software
 

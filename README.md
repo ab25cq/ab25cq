@@ -1,6 +1,6 @@
 HELLO
 
-I am interested in the user interface on Unix terminal. Although I was making a filer, I like the shell, thinking that the interpreter is  better for Unix terminal.
+I'm interested in the user interface of UNIX terminals. At first I was making a console filer, but I fell in love with shells and made shells. After that, I thought that the interpreter of the original language had a better user interface than the shell, so I created the original language.
 
 Language
 
@@ -12,6 +12,10 @@ readline, pcre, ncurses
 
 My Software
 
-I am making clover2 which is my original language and can be used as shell with REPL and vicl which is vi clone implemented by clover2. 
-I am making neo-c which is C extended lanaguage and wi which is vi clone implemented by neo-c.
-I made xyzsh. It is a ruby like shell.
+I made an original language called clover2. A language that can also be used as a shell. I made a vi clone called vicl with clover2.
+
+I created a C extension language called neo-c. I made a vi clone called wi with neo-c.
+
+A long time ago I made a ruby-like shell called xyzsh.
+
+A long time ago, I made a console filer called mfiler4.

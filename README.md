@@ -8,7 +8,7 @@ C, C++
 
 Library
 
-readline, pcre, ncurses
+readline, pcre, ncurses, LLVM
 
 My Software
 

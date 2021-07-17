@@ -12,7 +12,7 @@ readline, pcre, ncurses, LLVM, libc
 
 Using tools
 
-gdb, valgrind, autoconf, make, shell script, ruby
+gdb, valgrind, autoconf, make, shell script, ruby, qemu, clang, vim, tmux
 
 My Software
 

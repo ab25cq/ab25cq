@@ -20,7 +20,7 @@ I made an original language called clover2. A language that can also be used as 
 
 I created a C extension language called neo-c. I made a vi clone called wi with neo-c.
 
-I created a C extension language called neo-c2. I made a vi clone called vi with neo-c2.
+I created a C extension language called neo-c2. I made a vi clone called vin with neo-c2.
 
 A long time ago I made a ruby-like shell called xyzsh.
 

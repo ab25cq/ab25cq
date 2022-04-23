@@ -20,7 +20,7 @@ I made an original language called clover2. A language that can also be used as 
 
 I created a C extension language called neo-c. I made a vi clone called wi with neo-c.
 
-I created a C extension language called comelang. I made a vi clone called vin with comelang. I'm creating Python clone called yapy with comelang.
+I created a C extension language called comelang. I made a vi clone called vin with comelang. I made a text processing interpreter called zed with comelang.
 
 A long time ago I made a ruby-like shell called xyzsh.
 

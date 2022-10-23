@@ -4,7 +4,7 @@ I made Ruby like shell called xyzsh,
 
 I made an original language called clover2. 
 
-I have created yet another moder compiler called neo-c.
+I have created yet another modern compiler called neo-c.
 
 I made a vi clone called vin,  text processing interpreter called zed, 1000 lines shell called shsh, 1000 lines consol filer called mf by neo-c.
 

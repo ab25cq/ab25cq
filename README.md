@@ -1,12 +1,12 @@
-I made an original language called clover2. A language that can also be used as a shell. I made a vi clone called vicl with clover2.
+I made 2 pane console filer called mfiler4.
 
-I created a C extension language called neo-c. I made a vi clone called wi with neo-c.
+I made Ruby like shell called xyzsh,
 
-I created a C extension language called comelang. I made a vi clone called vin with comelang. I made a text processing interpreter called zed with comelang . Also I implemtend 1000 lines shell called shsh by comelang, and implemtend 1000 lines consol filer called mf by comelang.
+I made an original language called clover2. 
 
-A long time ago I made a ruby-like shell called xyzsh.
+I have created yet another moder compiler called neo-c.
 
-A long time ago, I made a console filer called mfiler4.
+I made a vi clone called vin,  text processing interpreter called zed, 1000 lines shell called shsh, 1000 lines consol filer called mf by neo-c.
 
 ![Visitor Count](https://profile-counter.glitch.me/ab25cq/count.svg)
 
